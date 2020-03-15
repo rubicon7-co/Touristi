@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Touristi</string>
+    <string name="title_activity_s1">s1Activity</string>
 </resources>
