@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Touristi</string>
     <string name="title_activity_s1">s1Activity</string>
+    <string name="splash_content_description">splash screen image</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">ایمیل</string>
+    <string name="prompt_password">رمز عبور</string>
+    <string name="action_sign_in">ورود</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_welcome_text">ثبت نام کنید</string>
 </resources>
